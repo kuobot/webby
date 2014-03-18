@@ -41,3 +41,11 @@ margin-top: -21px;
 right: -115px;
 top: 50%;
 }
+
+.quizlink
+{
+position:fixed;
+top:0;
+right:0;
+border:0;
+}
